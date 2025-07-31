@@ -12,7 +12,7 @@
 ## 🚀 Fonctionnalités
 
 - 🔍 Supporte les transcriptions **françaises et anglaises**.
-- 🧠 Résumé généré automatiquement avec un **LLM open-source** (gratuit).
+- 🧠 Résumé généré automatiquement avec un **LLM open-source** (gratuit), il est possible d'uiliser une version payante pour avoir un résumé de meileur qualité.
 - 💾 Fichiers sauvegardés dans :
   - `/home/<user>/Bureau/transcript` pour la transcription
   - `/home/<user>/Bureau/resumes` pour le résumé
