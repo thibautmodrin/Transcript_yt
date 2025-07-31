@@ -97,7 +97,3 @@ ytsummary CaWS4HNqdc0 fr
 
 ---
 
-## 📜 Licence
-
-Projet personnel – libre d’usage à des fins éducatives ou personnelles.
-```
